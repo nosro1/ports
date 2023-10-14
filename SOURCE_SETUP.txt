@@ -1,0 +1,4 @@
+RELEASE_ORG="nosro1"
+RELEASE_REPO="ports"
+REPO_NAME="nosro"
+REPO_PREFIX="nsro"
